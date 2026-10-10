@@ -1,3 +1,6 @@
-# Qpaylock-
-Market place
-src/App.jsx
+node_modules
+dist
+.vite
+.env
+.env.local
+*.log
